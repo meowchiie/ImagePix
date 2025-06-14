@@ -1,3 +1,10 @@
+## Anggota Kelompok
+Kelas: IK23-A
+Kelompok: Kelompok Gacor
+1. Syachira Azzahra Damas Mustari
+2. Husnul Khatimah 
+3. Irpan
+
 # ImagePix ✨
 Proyek akhir mata kuliah Pengolahan Citra Digital – Aplikasi bernama ImagePix untuk melakukan pemrosesan citra digital seperti grayscale, binary, brightness, dan lainnya 
 
@@ -28,10 +35,3 @@ Pastikan Python, OpenCV, dan PIL sudah terinstall.
 Jalankan:
 ```bash
 python ImagePix.py
-
-## Anggota Kelompok
-Kelas: IK23-A
-Kelompok: Kelompok Gacor
-1. Syachira Azzahra Damas Mustari
-2. Husnul Khatimah 
-3. Irpan
